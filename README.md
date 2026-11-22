@@ -9,4 +9,4 @@ Practice notebooks from learning Python.
 | `Regular Expression module.ipynb` | Regular expressions with `re` |
 | `Assignment 2.ipynb` | Problem-solving assignment |
 
-Author: **Md Hasan** · [mathbookbd.com](https://mathbookbd.com)
+Author: **Mohammad Hasan** · [mathbookbd.com](https://mathbookbd.com)
